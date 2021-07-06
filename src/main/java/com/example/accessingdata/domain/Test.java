@@ -16,7 +16,6 @@ public class Test {
         this.id = id;
     }
 
-    @Id
     public int getId() {
         return id;
     }
